@@ -1,10 +1,14 @@
 
-# Welcome to Stickman230's GitHub Profile!
+# Welcome to My GitHub Profile(●'◡'●)!
 
 ## About Me
-[Add a brief personal introduction here. This could include your professional background, interests, and any relevant achievements.]
+I Love computer science and I was able to carry out several personal and group projects throughout my studies and start at university, I mostly work in : Python, SQL, Java…
+Very comfortable working cooperatively in a team. I currently speak 4 languages ​​the first two fluently: English, French, Chinese and Spanish.
 
-## Featured Projects
+I hope to have the chance to pursue futher projects on cybersecurity🔥🔥
+
+## Featured Projects 📃
+
 ### 1. Java-OOP-Project
 - Description: A collaborative social media project for an OOP module.
 - Technologies: HTML
@@ -25,11 +29,12 @@
 - Technologies: [Specify Technologies Used]
 - [Link to Repository](https://github.com/Stickman230/Database_for_Ticketing)
 
-[Continue listing other significant projects...]
+etc...
 
-## Skills and Technologies
-[List the languages, tools, and technologies you are proficient in, such as Java, Python, MySQL, etc.]
+## Skills and Technologies 🤹
+Java, Python, MySQL, JavaScript, HTML, CSS, PHP, C , Kali Linux, Burp suite, AWS
 
-## Connect with Me
+
+## Connect with Me 🐤
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/maxime-reynaud-profile)
 
