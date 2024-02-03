@@ -36,5 +36,5 @@ Java, Python, MySQL, JavaScript, HTML, CSS, PHP, C , Kali Linux, Burp suite, AWS
 
 
 ## Connect with Me 🐤
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/maxime-reynaud-profile)
+- LinkedIn: [Profile](https://www.linkedin.com/in/maxime-reynaud-profile)
 
