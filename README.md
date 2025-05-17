@@ -32,7 +32,7 @@ I hope to have the chance to pursue futher projects on cybersecurity🔥🔥
 ### 5. Database_for_Ticketing
 - Description: An example database system for ticketing in event management, featuring MySQL queries.
 - Technologies: MySQL, Python
-- [Link to Repository](https://github.com/Stickman230/Database_for_Ticketing
+- [Link to Repository](https://github.com/Stickman230/Database_for_Ticketing)
 
 ### 6. CVE_Watcher
 - Description: A tool to fetch le latest data from the NVD database and display a visual overview of the last few days
