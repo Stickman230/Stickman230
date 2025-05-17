@@ -2,7 +2,7 @@
 # Welcome to My GitHub Profile(●'◡'●)!
 
 ## About Me
-I Love computer science and I was able to carry out several personal and group projects throughout my studies and start at university, I mostly work in : Python, SQL, Java…
+I Love computer science and cybersecurity. I was able to carry out several personal and group projects throughout my studies and start at university, I mostly work in : Python, SQL, Java…
 Very comfortable working cooperatively in a team. I currently speak 4 languages ​​the first two fluently: English, French, Chinese and Spanish.
 
 I hope to have the chance to pursue futher projects on cybersecurity🔥🔥
@@ -32,7 +32,12 @@ I hope to have the chance to pursue futher projects on cybersecurity🔥🔥
 ### 5. Database_for_Ticketing
 - Description: An example database system for ticketing in event management, featuring MySQL queries.
 - Technologies: MySQL, Python
-- [Link to Repository](https://github.com/Stickman230/Database_for_Ticketing)
+- [Link to Repository](https://github.com/Stickman230/Database_for_Ticketing
+
+### 6. CVE_Watcher
+- Description: A tool to fetch le latest data from the NVD database and display a visual overview of the last few days
+- Technologies: Python,HTML,CSS
+- [Link to Repository](https://github.com/Stickman230/CVE_Watcher)
 
 etc...
 
