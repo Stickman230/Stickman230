@@ -14,10 +14,10 @@ I hope to have the chance to pursue futher projects on cybersecurity🔥🔥
 - Technologies: HTML,JS,CSS
 - [Link to Repository](https://github.com/Stickman230/Java-OOP-Project)
 
-### 2. ECO Quest
-- Description: A Team software engineering project, full web app with Backend and frontend.
-- Technologies: Python(Django),SQLite,JS(react.js),vite,API,CSS,HTML
-- [Link to Repository](https://github.com/Stickman230/ECM2434-Eco_Quest))
+### 2. Buffer_overflows_Vulnerabilities_Benchmark
+- Description: A reaserch project on Gen-AI detection capabilities on buffer veerflow vulnerable c code
+- Technologies: C, Python3
+- [Link to Repository](https://github.com/Stickman230/Buffer_overflows_Vulnerabilities_Benchmark)
 
 ### 3. Hackathon_StudentMealPlanner
 - Description: A meal planner application built for students, integrating recipe APIs and database management to minimize food waste.
